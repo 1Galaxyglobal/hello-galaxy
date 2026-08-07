@@ -5,10 +5,12 @@
 import numpy as np
 import pandas as pd
 from collections import Counter             # 统计数据
-from sklearn.model_selection import train_test_split,StratifiedKFold    # 切分数据集，分层K折交叉验证
+from sklearn.model_selection import train_test_split, StratifiedKFold, GridSearchCV  # 切分数据集，分层K折交叉验证
 from sklearn.metrics import classification_report, accuracy_score
 import joblib                               # 保存模型
 import xgboost as xgb                       # 极限梯度提升树对象
+from sklearn.utils import class_weight
+
 
 # 数据导入
 def load_data():
@@ -45,11 +47,28 @@ def train_xgb():
 # 模型预测
 def predict_xgb():
     estimator = joblib.load("./model/红酒品质分类.pkl")
-    test = pd.read_csv("./data/红酒品质分类_test.csv")
     train = pd.read_csv("./data/红酒品质分类_train.csv")
+    test = pd.read_csv("./data/红酒品质分类_test.csv")
+    x_train = train.iloc[:, :-1]
+    y_train = train.iloc[:, -1]
     x_test = test.iloc[:, :-1]
     y_test = test.iloc[:, -1]
+    # 创建网格搜索和交叉验证对象 找模型最优参
+    param_grid = {'n_estimators': [20, 30, 40, 50],
+                  'max_depth':[2, 3, 4, 9],
+                  'learning_rate':[0.1,0.2,0.4,0.5]}
+    # 创建分层采样对象
+    skf = StratifiedKFold(n_splits=3, shuffle=True, random_state=23)
+    # 创建网格搜索对象
+    grid_estimator = GridSearchCV(estimator, param_grid, cv=skf)
+    grid_estimator.fit(x_train, y_train)
+    y_predict = grid_estimator.predict(x_test)
+    print(f'预测结果：{y_predict}')
+    print(f'最优参数：{grid_estimator.best_estimator_}')
+    print(f'最优评分：{grid_estimator.best_score_}')
+
 
 if __name__ == "__main__":
     # load_data()
-    train_xgb()
+    # train_xgb()
+    predict_xgb()
