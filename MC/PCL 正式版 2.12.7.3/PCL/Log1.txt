@@ -1,0 +1,308 @@
+[18:06:21.280] <主线程> [Start] 程序版本：正式版 2.12.7.3 (398)
+[18:06:21.286] <主线程> [Start] 识别码：3D92-2038-ECFA-B7D7
+[18:06:21.286] <主线程> [Start] 程序路径：D:\QQ\MC\PCL 正式版 2.12.7.3\Plain Craft Launcher 2.exe
+[18:06:21.286] <主线程> [Start] 系统编码：gb2312 (936, GBK=True)
+[18:06:21.286] <主线程> [Start] 管理员权限：False
+[18:06:21.286] <主线程> [Start] 第一阶段加载用时：194 ms
+[18:06:21.544] <主线程> [Start] 全新的 PCL，使用新的版本隔离默认值
+[18:06:21.573] <主线程> [UI] 刷新主题：0
+[18:06:21.652] <主线程> [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[18:06:21.654] <主线程> [Start] 第二阶段加载用时：351 ms
+[18:06:21.667] <L/Minecraft Folder List> [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[18:06:22.059] <主线程> [FormMain] 从设置更新背景图片与标题栏样式
+[18:06:22.201] <主线程> [System] 窗口已置顶，位置：(318, 181), 900 x 550
+[18:06:22.207] <Animation> [Animation] 动画线程开始
+[18:06:22.207] <主线程> [Start] 第三阶段加载用时：155 ms
+[18:06:22.221] <Version Check> [Minecraft] 当前选择的 Minecraft 文件夹：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\
+[18:06:22.327] <主线程> [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:06:22.334] <L/Loader Skin Legacy> [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:06:22.360] <初始化> [Java] 缓存中有 1 个可用的 Java：
+[18:06:22.364] <初始化> [Java]  - JDK 25 (25.0.2)：D:\Java\bin\
+[18:06:22.436] <主线程> [Page] 实例化：清空主页 UI，来源为空
+[18:06:22.462] <主线程> [Skin] 载入头像成功：Loader Skin Legacy
+[18:06:22.464] <主线程> [Animation] 两个动画帧间隔 219 ms
+[18:06:22.472] <初始化> [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[18:06:22.478] <初始化> [Loader] 加载器 PCL 配置更新 状态改变：Loading
+[18:06:22.482] <TryClearTaskTemp> [System] 开始清理任务缓存文件夹
+[18:06:22.486] <L/DlClientList Mojang> [Net] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+[18:06:22.486] <Telemetry> [System] 匿名数据上报：启动
+[18:06:22.498] <主线程> [Launch] 当前选择的 Minecraft 版本：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\
+[18:06:22.505] <L/PCL 配置更新> [Server] 已读取本地缓存的配置：36
+[18:06:22.505] <L/PCL 配置更新> [Net] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+[18:06:22.511] <主线程> [Minecraft] 启动按钮：Minecraft 版本：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\
+[18:06:22.523] <主线程> [Loader] 加载器 登录 状态改变：Loading
+[18:06:22.530] <L/登录> [Launch] 登录加载已开始
+[18:06:22.531] <L/登录> [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[18:06:22.535] <L/Loader Login Legacy> [Launch] 登录方式：离线（Galaxy）
+[18:06:22.536] <L/Loader Login Legacy> [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[18:06:22.550] <L/登录> [Launch] 登录加载已结束
+[18:06:22.550] <L/登录> [Loader] 加载器 登录 状态改变：Finished
+[18:06:22.880] <L/PCL 配置更新> [Server] 本地公告编号：213，服务器公告：213|397|398|5|36，无需更新
+[18:06:22.881] <L/PCL 配置更新> [Server] 复制自身为最新正式版：版本号升高到 398
+[18:06:22.906] <L/PCL 配置更新> [Loader] 加载器 PCL 配置更新 状态改变：Finished
+[18:06:22.927] <主线程> [System] DPI：192，系统版本：Microsoft Windows NT 10.0.26200.0，PCL 位置：D:\QQ\MC\PCL 正式版 2.12.7.3\Plain Craft Launcher 2.exe
+[18:06:23.539] <L/DlClientList Mojang> [Download] Mojang 官方源加载耗时：1059ms，可优先使用官方源
+[18:06:23.546] <L/DlClientList Mojang> [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[18:06:23.644] <TryClearTaskTemp> [System] 已清理任务缓存文件夹
+[18:06:23.996] <主线程> [Control] 按下按钮：启动游戏
+[18:06:24.002] <主线程> [Loader] 加载器 Loader Launch 状态改变：Loading
+[18:06:24.089] <L/Loader Launch> [Launch] 预检测已通过
+[18:06:24.101] <L/Loader Launch> [Download] 开始后台检查资源文件索引
+[18:06:24.102] <L/Loader Launch> [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[18:06:24.106] <L/Loader Launch> [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[18:06:24.107] <L/Loader Launch> [Loader] 加载器 登录 状态改变：Waiting
+[18:06:24.107] <L/Loader Launch> [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[18:06:24.108] <L/Loader Launch> [Loader] 加载器 获取 Java 状态改变：Loading
+[18:06:24.113] <L/Loader Launch> [Loader] 加载器 登录 状态改变：Loading
+[18:06:24.114] <L/后台分析资源文件索引地址> [Download] 版本 Mechanomania-航空学 对应的资源文件索引为 17
+[18:06:24.114] <L/Loader Launch> [Loader] 加载器 补全文件 状态改变：Loading
+[18:06:24.114] <L/登录> [Launch] 登录加载已开始
+[18:06:24.114] <L/Loader Launch> [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[18:06:24.114] <L/Loader Launch> [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[18:06:24.114] <L/登录> [Launch] 登录加载已结束
+[18:06:24.114] <L/登录> [Loader] 加载器 登录 状态改变：Finished
+[18:06:24.115] <L/Loader Launch> [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[18:06:24.115] <L/Loader Launch> [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[18:06:24.116] <L/分析资源文件索引地址> [Download] 版本 Mechanomania-航空学 对应的资源文件索引为 17
+[18:06:24.117] <L/Loader Launch> [Taskbar] Minecraft 启动 已加入任务列表
+[18:06:24.121] <L/后台分析资源文件索引地址> [Download] 无需更新资源文件索引，取消
+[18:06:24.122] <L/后台分析资源文件索引地址> [Loader] 加载器 后台分析资源文件索引地址 状态改变：Interrupted
+[18:06:24.123] <L/后台分析资源文件索引地址> [Loader] 加载器 后台更新资源文件索引 状态改变：Interrupted
+[18:06:24.126] <L/后台分析资源文件索引地址> [Loader] 加载器 后台下载资源文件索引 状态改变：Interrupted
+[18:06:24.126] <L/后台分析资源文件索引地址> [Download] 后台下载资源文件索引 已取消！
+[18:06:24.142] <L/后台分析资源文件索引地址> [Loader] 加载线程 后台分析资源文件索引地址 (8) 已中断但线程正常运行至结束，输出被弃用（最新线程：-1）
+[18:06:24.148] <L/获取 Java> [Launch] Java 版本需求：最低 1.21.0.0，最高 999.999.999.999
+[18:06:24.159] <L/分析资源文件索引地址> [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[18:06:24.166] <L/分析资源文件索引地址> [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[18:06:24.169] <L/获取 Java> [Java] 开始完全遍历查找：D:\QQ\MC\PCL 正式版 2.12.7.3\
+[18:06:24.176] <L/获取 Java> [Java] 开始完全遍历查找：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\
+[18:06:24.178] <L/下载 103> [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[18:06:24.178] <L/下载 103> [Loader] 加载器 获取资源文件列表 状态改变：Loading
+[18:06:24.204] <L/获取 Java> [Java] 开始完全遍历查找：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\
+[18:06:24.217] <L/获取 Java> [Java] 排序后的 Java 优先顺序：
+[18:06:24.217] <L/获取 Java> [Java]  - JDK 25 (25.0.2)：D:\Java\bin\
+[18:06:24.231] <L/获取 Java> [System] 执行命令并等待返回结果：D:\Java\bin\java.exe -version
+[18:06:24.297] <L/获取资源文件列表> [Loader] 加载器 获取资源文件列表 状态改变：Finished
+[18:06:24.297] <L/获取资源文件列表> [Loader] 加载器 下载资源文件 状态改变：Loading
+[18:06:24.297] <L/分析缺失支持库文件> [Minecraft] 获取支持库列表：Mechanomania-航空学
+[18:06:24.298] <L/下载 109> [Loader] 加载器 下载资源文件 状态改变：Finished
+[18:06:24.298] <L/下载 109> [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：643 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar (3.14.0) 与 643 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar (3.14.0)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：76.3 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar (5.0.4) 与 76.3 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar (5.0.4)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：63.1 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar (2.0.9) 与 63.1 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar (2.0.9)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：15 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\logging\1.2.7\logging-1.2.7.jar (1.2.7) 与 15 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\logging\1.2.7\logging-1.2.7.jar (1.2.7)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：26.7 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.22.1\log4j-slf4j2-impl-2.22.1.jar (2.22.1) 与 26.7 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.22.1\log4j-slf4j2-impl-2.22.1.jar (2.22.1)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：1.81 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar (2.22.1) 与 1.81 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar (2.22.1)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：327 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar (2.22.1) 与 327 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar (2.22.1)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：489 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar (2.15.1) 与 489 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar (2.15.1)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：2.9 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar (32.1.2-jre) 与 2.9 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar (32.1.2-jre)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：4.51 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar (1.0.1) 与 4.51 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar (1.0.1)，已忽略其中之一
+[18:06:24.310] <L/分析缺失支持库文件> [Minecraft] 发现重复的支持库：277 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar (2.10.1) 与 277 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar (2.10.1)，已忽略其中之一
+[18:06:24.318] <L/分析缺失支持库文件> [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[18:06:24.318] <L/分析缺失支持库文件> [Loader] 加载器 下载支持库文件 状态改变：Loading
+[18:06:24.327] <L/下载 100> [Net] 开始清理下载缓存
+[18:06:24.328] <L/下载 100> [Net] 下载缓存已清理
+[18:06:24.450] <L/获取 Java> [Java] 最终选定的 Java：JDK 25 (25.0.2)：D:\Java\bin\
+[18:06:24.451] <L/获取 Java> [Launch] 选择的 Java：JDK 25 (25.0.2)：D:\Java\bin\
+[18:06:24.451] <L/获取 Java> [Loader] 加载器 获取 Java 状态改变：Finished
+[18:06:24.626] <下载 文件复制 100/231> [Loader] 加载器 下载支持库文件 状态改变：Finished
+[18:06:24.626] <下载 文件复制 100/231> [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[18:06:24.626] <下载 文件复制 100/231> [Loader] 加载器 补全文件 状态改变：Finished
+[18:06:24.630] <下载 文件复制 100/231> [Loader] 加载器 获取启动参数 状态改变：Loading
+[18:06:24.636] <L/获取启动参数> [Launch] 参数获取开始
+[18:06:24.663] <L/获取启动参数> [Launch] 新版 JVM 参数：从版本 JSON 获取（Mechanomania-航空学）
+[18:06:24.670] <L/获取启动参数> [Launch] 使用 JLW：False
+[18:06:24.670] <L/获取启动参数> [Launch] 使用 LUA：False
+[18:06:24.670] <L/获取启动参数> [Launch] 当前剩余内存：17.6G
+[18:06:24.678] <L/获取启动参数> [Launch] GC 设置：4，选取 G1GC，Java 版本：25
+[18:06:24.686] <L/获取启动参数> [Launch] 新版游戏参数：从版本 JSON 获取（Mechanomania-航空学）
+[18:06:24.688] <L/获取启动参数> [Launch] =================== 启动参数开始 ===================
+[18:06:24.705] <L/获取启动参数> [Minecraft] 获取支持库列表：Mechanomania-航空学
+[18:06:24.707] <L/获取启动参数> [Minecraft] 发现重复的支持库：643 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar (3.14.0) 与 643 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar (3.14.0)，已忽略其中之一
+[18:06:24.707] <L/获取启动参数> [Minecraft] 发现重复的支持库：76.3 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar (5.0.4) 与 76.3 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar (5.0.4)，已忽略其中之一
+[18:06:24.707] <L/获取启动参数> [Minecraft] 发现重复的支持库：63.1 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar (2.0.9) 与 63.1 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar (2.0.9)，已忽略其中之一
+[18:06:24.708] <L/获取启动参数> [Minecraft] 发现重复的支持库：15 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\logging\1.2.7\logging-1.2.7.jar (1.2.7) 与 15 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\logging\1.2.7\logging-1.2.7.jar (1.2.7)，已忽略其中之一
+[18:06:24.708] <L/获取启动参数> [Minecraft] 发现重复的支持库：26.7 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.22.1\log4j-slf4j2-impl-2.22.1.jar (2.22.1) 与 26.7 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.22.1\log4j-slf4j2-impl-2.22.1.jar (2.22.1)，已忽略其中之一
+[18:06:24.708] <L/获取启动参数> [Minecraft] 发现重复的支持库：1.81 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar (2.22.1) 与 1.81 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar (2.22.1)，已忽略其中之一
+[18:06:24.708] <L/获取启动参数> [Minecraft] 发现重复的支持库：327 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar (2.22.1) 与 327 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar (2.22.1)，已忽略其中之一
+[18:06:24.708] <L/获取启动参数> [Minecraft] 发现重复的支持库：489 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar (2.15.1) 与 489 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar (2.15.1)，已忽略其中之一
+[18:06:24.708] <L/获取启动参数> [Minecraft] 发现重复的支持库：2.9 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar (32.1.2-jre) 与 2.9 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar (32.1.2-jre)，已忽略其中之一
+[18:06:24.708] <L/获取启动参数> [Minecraft] 发现重复的支持库：4.51 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar (1.0.1) 与 4.51 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar (1.0.1)，已忽略其中之一
+[18:06:24.708] <L/获取启动参数> [Minecraft] 发现重复的支持库：277 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar (2.10.1) 与 277 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar (2.10.1)，已忽略其中之一
+[18:06:24.712] <L/获取启动参数> [Launch] -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+[18:06:24.712] <L/获取启动参数> [Launch] "-Djava.library.path=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives"
+[18:06:24.712] <L/获取启动参数> [Launch] "-Djna.tmpdir=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives"
+[18:06:24.712] <L/获取启动参数> [Launch] "-Dorg.lwjgl.system.SharedLibraryExtractPath=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives"
+[18:06:24.712] <L/获取启动参数> [Launch] "-Dio.netty.native.workdir=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives"
+[18:06:24.712] <L/获取启动参数> [Launch] -Dminecraft.launcher.brand=PCL
+[18:06:24.712] <L/获取启动参数> [Launch] -Dminecraft.launcher.version=398
+[18:06:24.712] <L/获取启动参数> [Launch] -cp
+[18:06:24.712] <L/获取启动参数> [Launch] "D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\github\oshi\oshi-core\6.4.10\oshi-core-6.4.10.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\ibm\icu\icu4j\73.2\icu4j-73.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\authlib\6.0.54\authlib-6.0.54.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\datafixerupper\8.0.16\datafixerupper-8.0.16.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\logging\1.2.7\logging-1.2.7.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-buffer\4.1.97.Final\netty-buffer-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-codec\4.1.97.Final\netty-codec-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-common\4.1.97.Final\netty-common-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-handler\4.1.97.Final\netty-handler-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-resolver\4.1.97.Final\netty-resolver-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.97.Final\netty-transport-classes-epoll-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.97.Final\netty-transport-native-unix-common-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-transport\4.1.97.Final\netty-transport-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.12\fastutil-8.5.12.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\java\dev\jna\jna-platform\5.14.0\jna-platform-5.14.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\java\dev\jna\jna\5.14.0\jna-5.14.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-compress\1.26.0\commons-compress-1.26.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.22.1\log4j-slf4j2-impl-2.22.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lz4\lz4-java\1.8.0\lz4-java-1.8.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\fancymodloader\earlydisplay\4.0.42\earlydisplay-4.0.42.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\fancymodloader\loader\4.0.42\loader-4.0.42.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\accesstransformers\at-modlauncher\10.0.1\at-modlauncher-10.0.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\accesstransformers\10.0.1\accesstransformers-10.0.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\bus\8.0.5\bus-8.0.5.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\coremods\7.0.3\coremods-7.0.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\cpw\mods\modlauncher\11.0.5\modlauncher-11.0.5.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\mergetool\2.0.0\mergetool-2.0.0-api.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\electronwill\night-config\toml\3.8.3\toml-3.8.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\electronwill\night-config\core\3.8.3\core-3.8.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\JarJarSelector\0.4.1\JarJarSelector-0.4.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\JarJarMetadata\0.4.1\JarJarMetadata-0.4.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.3.0\terminalconsoleappender-1.3.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\fabricmc\sponge-mixin\0.15.2+mixin.0.8.7\sponge-mixin-0.15.2+mixin.0.8.7.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.4\nashorn-core-15.4.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\cpw\mods\bootstraplauncher\2.0.2\bootstraplauncher-2.0.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\cpw\mods\securejarhandler\3.0.8\securejarhandler-3.0.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm-commons\9.8\asm-commons-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm-util\9.8\asm-util-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm-analysis\9.8\asm-analysis-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm-tree\9.8\asm-tree-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm\9.8\asm-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\JarJarFileSystems\0.4.1\JarJarFileSystems-0.4.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\antlr\antlr4-runtime\4.13.1\antlr4-runtime-4.13.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\jline\jline-reader\3.20.0\jline-reader-3.20.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\jline\jline-terminal\3.20.0\jline-terminal-3.20.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\minecraftforge\srgutils\0.4.15\srgutils-0.4.15.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\machinezoo\noexception\noexception\1.7.1\noexception-1.7.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学.jar"
+[18:06:24.712] <L/获取启动参数> [Launch] -Djava.net.preferIPv6Addresses=system
+[18:06:24.712] <L/获取启动参数> [Launch] -DignoreList=client-extra,Mechanomania-航空学.jar
+[18:06:24.713] <L/获取启动参数> [Launch] "-DlibraryDirectory=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries"
+[18:06:24.713] <L/获取启动参数> [Launch] -p
+[18:06:24.713] <L/获取启动参数> [Launch] "D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm/9.8/asm-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar"
+[18:06:24.713] <L/获取启动参数> [Launch] --add-modules
+[18:06:24.713] <L/获取启动参数> [Launch] ALL-MODULE-PATH
+[18:06:24.713] <L/获取启动参数> [Launch] --add-opens
+[18:06:24.713] <L/获取启动参数> [Launch] java.base/java.util.jar=cpw.mods.securejarhandler
+[18:06:24.713] <L/获取启动参数> [Launch] --add-opens
+[18:06:24.713] <L/获取启动参数> [Launch] java.base/java.lang.invoke=cpw.mods.securejarhandler
+[18:06:24.713] <L/获取启动参数> [Launch] --add-exports
+[18:06:24.713] <L/获取启动参数> [Launch] java.base/sun.security.util=cpw.mods.securejarhandler
+[18:06:24.713] <L/获取启动参数> [Launch] --add-exports
+[18:06:24.713] <L/获取启动参数> [Launch] jdk.naming.dns/com.sun.jndi.dns=java.naming
+[18:06:24.713] <L/获取启动参数> [Launch] -XX:-OmitStackTraceInFastThrow
+[18:06:24.713] <L/获取启动参数> [Launch] -Djdk.lang.Process.allowAmbiguousCommands=True
+[18:06:24.713] <L/获取启动参数> [Launch] -Dfml.ignoreInvalidMinecraftCertificates=True
+[18:06:24.713] <L/获取启动参数> [Launch] -Dfml.ignorePatchDiscrepancies=True
+[18:06:24.713] <L/获取启动参数> [Launch] -Xmx10444m
+[18:06:24.713] <L/获取启动参数> [Launch] -XX:+UnlockExperimentalVMOptions
+[18:06:24.713] <L/获取启动参数> [Launch] -XX:+UseCompactObjectHeaders
+[18:06:24.713] <L/获取启动参数> [Launch] -XX:+UseG1GC
+[18:06:24.713] <L/获取启动参数> [Launch] -XX:G1NewSizePercent=20
+[18:06:24.713] <L/获取启动参数> [Launch] -XX:G1ReservePercent=20
+[18:06:24.713] <L/获取启动参数> [Launch] -XX:G1HeapRegionSize=32M
+[18:06:24.714] <L/获取启动参数> [Launch] -XX:MaxGCPauseMillis=50
+[18:06:24.714] <L/获取启动参数> [Launch] -XX:+PerfDisableSharedMem
+[18:06:24.714] <L/获取启动参数> [Launch] -XX:MinHeapFreeRatio=25
+[18:06:24.717] <L/获取启动参数> [Launch] -XX:MaxHeapFreeRatio=40
+[18:06:24.717] <L/获取启动参数> [Launch] -Dlog4j2.formatMsgNoLookups=true
+[18:06:24.717] <L/获取启动参数> [Launch] -Dstdout.encoding=UTF-8
+[18:06:24.717] <L/获取启动参数> [Launch] -Dstderr.encoding=UTF-8
+[18:06:24.717] <L/获取启动参数> [Launch] -Dfile.encoding=COMPAT
+[18:06:24.717] <L/获取启动参数> [Launch] cpw.mods.bootstraplauncher.BootstrapLauncher
+[18:06:24.717] <L/获取启动参数> [Launch] --username
+[18:06:24.717] <L/获取启动参数> [Launch] Galaxy
+[18:06:24.717] <L/获取启动参数> [Launch] --version
+[18:06:24.717] <L/获取启动参数> [Launch] Mechanomania-航空学
+[18:06:24.717] <L/获取启动参数> [Launch] --gameDir
+[18:06:24.717] <L/获取启动参数> [Launch] "D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学"
+[18:06:24.717] <L/获取启动参数> [Launch] --assetsDir
+[18:06:24.717] <L/获取启动参数> [Launch] "D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\assets"
+[18:06:24.717] <L/获取启动参数> [Launch] --assetIndex
+[18:06:24.717] <L/获取启动参数> [Launch] 17
+[18:06:24.717] <L/获取启动参数> [Launch] --uuid
+[18:06:24.717] <L/获取启动参数> [Launch] 0000000000003006998F555B5AD63C60
+[18:06:24.717] <L/获取启动参数> [Launch] --accessToken
+[18:06:24.717] <L/获取启动参数> [Launch] 0000000000003006998F555B5AD63C60
+[18:06:24.717] <L/获取启动参数> [Launch] --clientId
+[18:06:24.717] <L/获取启动参数> [Launch] ${clientid}
+[18:06:24.717] <L/获取启动参数> [Launch] --xuid
+[18:06:24.717] <L/获取启动参数> [Launch] ${auth_xuid}
+[18:06:24.717] <L/获取启动参数> [Launch] --userType
+[18:06:24.717] <L/获取启动参数> [Launch] msa
+[18:06:24.717] <L/获取启动参数> [Launch] --versionType
+[18:06:24.717] <L/获取启动参数> [Launch] PCL
+[18:06:24.717] <L/获取启动参数> [Launch] --width
+[18:06:24.717] <L/获取启动参数> [Launch] 854
+[18:06:24.717] <L/获取启动参数> [Launch] --height
+[18:06:24.717] <L/获取启动参数> [Launch] 480
+[18:06:24.717] <L/获取启动参数> [Launch] --fml.neoForgeVersion
+[18:06:24.717] <L/获取启动参数> [Launch] 21.1.228
+[18:06:24.717] <L/获取启动参数> [Launch] --fml.fmlVersion
+[18:06:24.717] <L/获取启动参数> [Launch] 4.0.42
+[18:06:24.717] <L/获取启动参数> [Launch] --fml.mcVersion
+[18:06:24.717] <L/获取启动参数> [Launch] 1.21.1
+[18:06:24.717] <L/获取启动参数> [Launch] --fml.neoFormVersion
+[18:06:24.717] <L/获取启动参数> [Launch] 20240808.144430
+[18:06:24.717] <L/获取启动参数> [Launch] --launchTarget
+[18:06:24.717] <L/获取启动参数> [Launch] forgeclient
+[18:06:24.717] <L/获取启动参数> [Launch] =================== 启动参数结束 ===================
+[18:06:24.717] <L/获取启动参数> [Loader] 加载器 获取启动参数 状态改变：Finished
+[18:06:24.719] <L/获取启动参数> [Loader] 加载器 解压文件 状态改变：Loading
+[18:06:24.725] <L/解压文件> [Launch] 正在解压 Natives 文件
+[18:06:24.725] <L/解压文件> [Minecraft] 获取支持库列表：Mechanomania-航空学
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：643 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar (3.14.0) 与 643 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar (3.14.0)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：76.3 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar (5.0.4) 与 76.3 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar (5.0.4)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：63.1 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar (2.0.9) 与 63.1 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar (2.0.9)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：15 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\logging\1.2.7\logging-1.2.7.jar (1.2.7) 与 15 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\logging\1.2.7\logging-1.2.7.jar (1.2.7)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：26.7 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.22.1\log4j-slf4j2-impl-2.22.1.jar (2.22.1) 与 26.7 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.22.1\log4j-slf4j2-impl-2.22.1.jar (2.22.1)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：1.81 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar (2.22.1) 与 1.81 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar (2.22.1)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：327 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar (2.22.1) 与 327 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar (2.22.1)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：489 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar (2.15.1) 与 489 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar (2.15.1)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：2.9 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar (32.1.2-jre) 与 2.9 M | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar (32.1.2-jre)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：4.51 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar (1.0.1) 与 4.51 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar (1.0.1)，已忽略其中之一
+[18:06:24.726] <L/解压文件> [Minecraft] 发现重复的支持库：277 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar (2.10.1) 与 277 K | D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar (2.10.1)，已忽略其中之一
+[18:06:24.735] <L/解压文件> [Launch] 删除：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\freetype.dll
+[18:06:24.736] <L/解压文件> [Launch] 删除：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\glfw.dll
+[18:06:24.737] <L/解压文件> [Launch] 删除：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\jemalloc.dll
+[18:06:24.737] <L/解压文件> [Launch] 删除：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\jna7140981692705378427.dll
+[18:06:24.738] <L/解压文件> [Launch] 删除：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\jna7140981692705378427.dll.x
+[18:06:24.738] <L/解压文件> [Launch] 删除：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\lwjgl.dll
+[18:06:24.738] <L/解压文件> [Launch] 删除：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\lwjgl_opengl.dll
+[18:06:24.738] <L/解压文件> [Launch] 删除：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\lwjgl_stb.dll
+[18:06:24.739] <L/解压文件> [Launch] 删除：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\OpenAL.dll
+[18:06:24.740] <L/解压文件> [Loader] 加载器 解压文件 状态改变：Finished
+[18:06:24.841] <L/解压文件> [Loader] 加载器 预启动处理 状态改变：Loading
+[18:06:24.886] <L/预启动处理> [System] 无需调整显卡设置：D:\Java\bin\java.exe
+[18:06:24.887] <L/预启动处理> [System] 已调整显卡设置：D:\QQ\MC\PCL 正式版 2.12.7.3\Plain Craft Launcher 2.exe
+[18:06:24.888] <L/预启动处理> [Launch] 需要的语言为 zh_cn，当前语言为 zh_cn，无需修改
+[18:06:24.888] <L/预启动处理> [Loader] 加载器 预启动处理 状态改变：Finished
+[18:06:24.954] <主线程> [Animation] 两个动画帧间隔 109 ms
+[18:06:24.955] <L/预启动处理> [Loader] 加载器 执行自定义命令 状态改变：Loading
+[18:06:24.969] <L/执行自定义命令> [Loader] 加载器 执行自定义命令 状态改变：Finished
+[18:06:25.052] <主线程> [Animation] 两个动画帧间隔 110 ms
+[18:06:25.058] <L/执行自定义命令> [Loader] 加载器 启动进程 状态改变：Loading
+[18:06:25.065] <L/启动进程> [System] 启动进程：D:\Java\bin\java.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump "-Djava.library.path=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives" "-Djna.tmpdir=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives" "-Dorg.lwjgl.system.SharedLibraryExtractPath=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives" "-Dio.netty.native.workdir=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives" -Dminecraft.launcher.brand=PCL -Dminecraft.launcher.version=398 -cp "D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\github\oshi\oshi-core\6.4.10\oshi-core-6.4.10.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\ibm\icu\icu4j\73.2\icu4j-73.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\authlib\6.0.54\authlib-6.0.54.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\brigadier\1.3.10\brigadier-1.3.10.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\datafixerupper\8.0.16\datafixerupper-8.0.16.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\logging\1.2.7\logging-1.2.7.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\mojang\text2speech\1.17.9\text2speech-1.17.9.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-buffer\4.1.97.Final\netty-buffer-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-codec\4.1.97.Final\netty-codec-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-common\4.1.97.Final\netty-common-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-handler\4.1.97.Final\netty-handler-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-resolver\4.1.97.Final\netty-resolver-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.97.Final\netty-transport-classes-epoll-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.97.Final\netty-transport-native-unix-common-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\io\netty\netty-transport\4.1.97.Final\netty-transport-4.1.97.Final.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\it\unimi\dsi\fastutil\8.5.12\fastutil-8.5.12.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\java\dev\jna\jna-platform\5.14.0\jna-platform-5.14.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\java\dev\jna\jna\5.14.0\jna-5.14.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-compress\1.26.0\commons-compress-1.26.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.22.1\log4j-slf4j2-impl-2.22.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\jcraft\jorbis\0.0.17\jorbis-0.0.17.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-freetype\3.3.3\lwjgl-freetype-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.3\lwjgl-glfw-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.3\lwjgl-jemalloc-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.3\lwjgl-openal-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.3\lwjgl-opengl-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.3\lwjgl-stb-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.3\lwjgl-tinyfd-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-arm64.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lwjgl\lwjgl\3.3.3\lwjgl-3.3.3-natives-windows-x86.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\lz4\lz4-java\1.8.0\lz4-java-1.8.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\fancymodloader\earlydisplay\4.0.42\earlydisplay-4.0.42.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\fancymodloader\loader\4.0.42\loader-4.0.42.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\accesstransformers\at-modlauncher\10.0.1\at-modlauncher-10.0.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\accesstransformers\10.0.1\accesstransformers-10.0.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\bus\8.0.5\bus-8.0.5.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\coremods\7.0.3\coremods-7.0.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\cpw\mods\modlauncher\11.0.5\modlauncher-11.0.5.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\mergetool\2.0.0\mergetool-2.0.0-api.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\electronwill\night-config\toml\3.8.3\toml-3.8.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\electronwill\night-config\core\3.8.3\core-3.8.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\JarJarSelector\0.4.1\JarJarSelector-0.4.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\JarJarMetadata\0.4.1\JarJarMetadata-0.4.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\minecrell\terminalconsoleappender\1.3.0\terminalconsoleappender-1.3.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\fabricmc\sponge-mixin\0.15.2+mixin.0.8.7\sponge-mixin-0.15.2+mixin.0.8.7.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.4\nashorn-core-15.4.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\cpw\mods\bootstraplauncher\2.0.2\bootstraplauncher-2.0.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\cpw\mods\securejarhandler\3.0.8\securejarhandler-3.0.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm-commons\9.8\asm-commons-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm-util\9.8\asm-util-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm-analysis\9.8\asm-analysis-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm-tree\9.8\asm-tree-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\ow2\asm\asm\9.8\asm-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\neoforged\JarJarFileSystems\0.4.1\JarJarFileSystems-0.4.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\antlr\antlr4-runtime\4.13.1\antlr4-runtime-4.13.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\jline\jline-reader\3.20.0\jline-reader-3.20.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\jline\jline-terminal\3.20.0\jline-terminal-3.20.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\net\minecraftforge\srgutils\0.4.15\srgutils-0.4.15.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\org\codehaus\plexus\plexus-utils\3.3.0\plexus-utils-3.3.0.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries\com\machinezoo\noexception\noexception\1.7.1\noexception-1.7.1.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=client-extra,Mechanomania-航空学.jar "-DlibraryDirectory=D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries" -p "D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/org/ow2/asm/asm/9.8/asm-9.8.jar;D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\libraries/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar" --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=True -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Xmx10444m -XX:+UnlockExperimentalVMOptions -XX:+UseCompactObjectHeaders -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:G1HeapRegionSize=32M -XX:MaxGCPauseMillis=50 -XX:+PerfDisableSharedMem -XX:MinHeapFreeRatio=25 -XX:MaxHeapFreeRatio=40 -Dlog4j2.formatMsgNoLookups=true -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8 -Dfile.encoding=COMPAT cpw.mods.bootstraplauncher.BootstrapLauncher --username Galaxy --version Mechanomania-航空学 --gameDir "D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学" --assetsDir "D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\assets" --assetIndex 17 --uuid 00000**********************63C60 --accessToken 00000**********************63C60 --clientId ${clientid} --xuid ${auth_xuid} --userType msa --versionType PCL --width 854 --height 480 --fml.neoForgeVersion 21.1.228 --fml.fmlVersion 4.0.42 --fml.mcVersion 1.21.1 --fml.neoFormVersion 20240808.144430 --launchTarget forgeclient
+[18:06:25.088] <L/启动进程> [Launch] 已启动游戏进程：D:\Java\bin\java.exe
+[18:06:25.088] <L/启动进程> [Loader] 加载器 启动进程 状态改变：Finished
+[18:06:25.090] <L/启动进程> [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[18:06:25.094] <L/等待游戏窗口出现> [Launch] 
+[18:06:25.094] <L/等待游戏窗口出现> [Launch] ~ 基础参数 ~
+[18:06:25.094] <L/等待游戏窗口出现> [Launch] PCL 版本：正式版 2.12.7.3 (398)
+[18:06:25.094] <L/等待游戏窗口出现> [Launch] 游戏版本：正式版 1.21.1, NeoForge 21.1.228（21.0.1，Drop 210）
+[18:06:25.094] <L/等待游戏窗口出现> [Launch] 资源版本：17
+[18:06:25.094] <L/等待游戏窗口出现> [Launch] 版本继承：无
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] 分配的内存：10.2 GB（10445 MB）
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] MC 文件夹：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] 版本文件夹：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] 版本隔离：True
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] HMCL 格式：False
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] Java 信息：JDK 25 (25.0.2)：D:\Java\bin\
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] 环境变量：已设置
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] Natives 文件夹：D:\QQ\MC\PCL 正式版 2.12.7.3\.minecraft\versions\Mechanomania-航空学\Mechanomania-航空学-natives\
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] 
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] ~ 登录参数 ~
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] 玩家用户名：Galaxy
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] AccessToken：0000000000003006998F555B5AD63C60
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] ClientToken：0000000000003006998F555B5AD63C60
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] UUID：0000000000003006998F555B5AD63C60
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] 登录方式：Legacy
+[18:06:25.097] <L/等待游戏窗口出现> [Launch] 
+[18:06:25.100] <L/等待游戏窗口出现> [Launch] [35568] 开始 Minecraft 日志监控
+[18:06:25.100] <L/等待游戏窗口出现> [Launch] [全局] 出现运行中的 Minecraft
+[18:06:25.815] <Minecraft Watcher PID 35568> [Launch] [35568] 日志 1/5：已出现日志输出
+[18:06:27.809] <主线程> [Report] FPS 0, 动画 16, 下载中 0（0 B/s）
+[18:06:30.252] <Minecraft Watcher PID 35568> [Launch] [35568] Minecraft 窗口已加载：Minecraft: NeoForge Loading...（4262632）
+[18:06:30.252] <Minecraft Watcher PID 35568> [Launch] [35568] Minecraft 加载已完成
+[18:06:30.344] <L/等待游戏窗口出现> [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[18:06:30.359] <L/等待游戏窗口出现> [Loader] 加载器 结束处理 状态改变：Loading
+[18:06:30.363] <L/结束处理> [Launch] 开始启动结束处理
+[18:06:30.363] <L/结束处理> [Launch] 启动器可见性：5
+[18:06:30.364] <L/结束处理> [Loader] 加载器 结束处理 状态改变：Finished
+[18:06:30.490] <L/结束处理> [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[18:06:30.502] <主线程> [Animation] 两个动画帧间隔 127 ms
+[18:06:30.549] <主线程> [Taskbar] Minecraft 启动 已移出任务列表
+[18:06:30.599] <L/Loader Launch> [Loader] 加载器 Loader Launch 状态改变：Finished
+[18:06:30.599] <Telemetry> [System] 匿名数据上报：Minecraft 启动成功
+[18:06:30.612] <主线程> [UI] 弹出提示：Mechanomania-航空学 启动成功！
+[18:06:39.188] <主线程> [Control] 按下图标按钮：BtnTitleMin
+[18:07:00.182] <Minecraft Watcher PID 35568> [Launch] [35568] 日志 2/5：游戏用户已设置
+[18:07:00.401] <主线程> [Animation] 两个动画帧间隔 205 ms
+[18:07:00.417] <Minecraft Watcher PID 35568> [Launch] [35568] 日志 3/5：LWJGL 版本已确认
+[18:07:00.713] <主线程> [Animation] 两个动画帧间隔 282 ms
+[18:07:17.038] <主线程> [Animation] 两个动画帧间隔 157 ms
+[18:07:31.652] <Minecraft Watcher PID 35568> [Launch] [35568] 日志 4/5：OpenAL 已加载
+[18:07:31.855] <主线程> [Animation] 两个动画帧间隔 188 ms
+[18:07:31.886] <Minecraft Watcher PID 35568> [Launch] [35568] 日志 5/5：材质已加载
+[18:07:32.171] <主线程> [Animation] 两个动画帧间隔 267 ms
+[18:13:50.296] <Minecraft Watcher PID 35568> [Launch] [35568] Minecraft 已退出，返回值：0
+[18:13:50.305] <Minecraft Watcher PID 35568> [Launch] [全局] 已无运行中的 Minecraft
+[18:13:50.527] <Minecraft Watcher PID 35568> [Launch] [35568] Minecraft 日志监控已退出
+[18:13:50.884] <主线程> [Animation] 两个动画帧间隔 341 ms
+[18:13:50.899] <主线程> [Animation] 两个动画帧间隔 246 ms
+[18:25:28.026] <主线程> [Control] 按下图标按钮：BtnTitleClose
+[18:25:28.041] <主线程> [System] 收到关闭指令
+[18:25:28.296] <主线程> [System] 程序已退出，返回值：Success
